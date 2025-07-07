@@ -2,7 +2,7 @@
 
 namespace GitMaster.Controllers
 {
-    public class HomeController1 : Controller
+    public class UserController : Controller
     {
         public IActionResult Index()
         {
